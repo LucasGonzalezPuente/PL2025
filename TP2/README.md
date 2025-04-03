@@ -1,4 +1,4 @@
-**1. parse_line(line)**<br> 
+**1. parse_line(line)** <br> 
 Esta función recibe una línea del CSV y la divide en campos correctamente, respetando los ; que están dentro de comillas.  
 
 **2. 2. main()**<br>
