@@ -31,6 +31,7 @@ Llama a classify_token(word) para clasificar cada palabra encontrada.
 Devuelve una lista de tuplas (tipo, valor).
 
 **3. Funcion classify_token**<br>
+
 Clasifica cada palabra/token según las reglas de token_types:
 
 Si está en un conjunto (por ejemplo, KEYWORD), lo detecta directo.
