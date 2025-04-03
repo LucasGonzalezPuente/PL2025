@@ -6,7 +6,7 @@ Esta función transforma ese texto a HTML.<br>
 Divide el texto en líneas para procesar una por una.
   - html_lines: lista que irá acumulando las líneas convertidas a HTML.
 
-  - in_list: para saber si estamos dentro de una lista ordenada.
+  - in_list: para saber si estamos dentro de una lista ordenada.<br>
 **3. Conversion**<br>
 Detecta si una línea empieza con #, ## o ### y los convierte en encabezados HTML
 Detecta líneas que empiezan con 1., 2. etc.
