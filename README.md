@@ -1,6 +1,6 @@
-📘 Perfil de la Asignatura<br>
+📘 Perfil de la Asignatura Procesamiento de Lenguajes<br>
 
-Nombre: Procesamiento de Lenguajes
+Nombre: Lucas González Puente
 
 ID: E12140
 
