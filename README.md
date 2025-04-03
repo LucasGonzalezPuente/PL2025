@@ -1,5 +1,10 @@
-# PL2025
-Proccessamiento de linguagems
+📘 Perfil de la Asignatura
+Nombre: Procesamiento de Lenguajes
+
+ID: E12140
+
+
+
 
 
 
